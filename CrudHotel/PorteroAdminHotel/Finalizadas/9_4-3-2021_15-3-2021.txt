@@ -1,0 +1,27 @@
+4-3-2021
+15-3-2021
+19
+9
+6
+Daniel Alban
+1725701450
+true
+22
+0999999
+daniel@udla.edu.ec
+3
+0
+Crédito
+
+
+Ballenas,30.0,3-3-2021;Ballenas,35.0,14-3-2021;
+
+65.0
+
+0.0
+855.0
+920.0
+110.4
+1030.4
+Me gustó mucho el hotel
+Gracias

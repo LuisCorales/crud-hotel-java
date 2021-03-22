@@ -1,0 +1,22 @@
+Problemas plomeria,2-1-2022,5-1-2022;Cambio muebles,24-1-2021,27-1-2021;
+Griferia,30-1-2021,4-2-2021;
+Pintura,20-2-2022,23-2-2022;Griferia,15-3-2022,18-3-2022;Pintura,30-5-2021,4-6-2021;
+
+Problemas plomeria,26-1-2021,29-1-2021;
+
+
+Reemplazo sanitarios,26-4-2021,29-4-2021;Griferia,15-2-2021,18-2-2021;
+Griferia,30-4-2021,4-5-2021;
+Griferia,10-3-2021,13-3-2021;
+
+
+
+
+
+
+Problemas plomeria,29-4-2021,4-5-2021;
+
+
+Reemplazo sanitarios,20-2-2021,23-2-2021;
+
+

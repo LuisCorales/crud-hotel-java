@@ -1,0 +1,26 @@
+28-1-2021
+10-2-2021
+348
+3
+4
+Diego Hiriart
+1724061609
+true
+20
+161651
+diego@haha.ec
+2
+2
+Efectivo
+tallarin,15.0,11-3-2022;Comida,5.0,28-1-2021;
+
+ballena,50.0,20-3-2022;
+playa,30.0,17-3-2022;
+100.0
+control remoto,5.0,21-3-2022;
+5.0
+520.0
+625.0
+75.0
+700.0
+Muy lindo el hotel
