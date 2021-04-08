@@ -2,4 +2,4 @@
 
 A CRUD requested by a medium size hotel.
 
-![](https://media.giphy.com/media/hFtJU2BklGpaw5Tr4w/giphy.gif)
+![](https://github.com/LuisCorales/crud-hotel-java/blob/main/Preview/preview.jpg)
